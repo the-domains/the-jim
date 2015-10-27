@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[The Jim]]></title>
         <description><![CDATA[The Jim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-jim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 13:04:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 13:04:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-jim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What up]]></title>
+            <description><![CDATA[<article><h1>What up</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45773284-aba5-437d-80b6-e62acbdf4321.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-jim/what-up/index.html</link>
+            <guid isPermaLink="false">fbefcf02-bdef-4f55-aebf-86cde3a10aaf</guid>
+            <pubDate>Tue, 27 Oct 2015 13:04:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined6f5757d6-be2b-406b-a2be-9c275e353931/index.html</link>
+            <link>https://thegrid.ai/the-jim/6f5757d6-be2b-406b-a2be-9c275e353931/index.html</link>
             <guid isPermaLink="false">6f5757d6-be2b-406b-a2be-9c275e353931</guid>
             <pubDate>Tue, 27 Oct 2015 13:04:44 GMT</pubDate>
         </item>
