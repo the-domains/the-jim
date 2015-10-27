@@ -1,0 +1,23 @@
+name: The Jim
+favicon: null
+layout_spectrum: 0.2590815133880824
+typography_spectrum: 0.1555101324338466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07818745984695852
+  lightness: 0.3185386350378394
+  saturation: 0.3591289250180125
+  rhythmicContrast: 0.0976536413654685
+purpose: []
